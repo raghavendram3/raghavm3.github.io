@@ -11,30 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Theoretical &amp; Computational Chemistry, Wageningen University &amp; Research, The Netherlands, 2024 (expected)
+* Master’s thesis in Computational Materials Science, Sorbonne Université, Paris, France, 2020
+* BS-MS Dual Degree in Chemistry and Physics, Indian Institute of Science Education and Research, Pune, India, 2015-2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 2020 - Present: Doctoral Student
+  * Wageningen University &amp; Research (WUR), The Netherlands
+  * Thesis title: Multiscale modelling of transition metal carbide catalysts for biomass conversion.
+  * Supervisor(s): Prof. Han Zuilhof, Prof. Harry Bitter, and Prof. Guanna Li
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2019 - May 2020: Masters' Thesis Student
+  * Sorbonne University, Paris, France
+  * Thesis title: Magnetic properties of narrow zigzag graphene nanoribbons from <em>ab initio</em> calculations.
+  * Supervisor: Prof. Michele Casula, and Prof. Prasenjit Ghosh
+
+* August 2018 - April 2019: Research Intern
+  * Indian Institute of Science Education and Research Pune, India
+  * Thesis title: Electronic structure calculations of solid materials using Quantum ESPRESSO.
+  * Supervisor: Prof. Prasenjit Ghosh
+
+* May 2018 – July 2018: Research Intern
+  * Indian Institute of Science, Bangalore, India
+  * Thesis title: Theoretical study of isonitrile coupling mediated by allenic diborenes.
+  * Supervisor: Prof. Eluvathingal D. Jemmis, and Dr. Sagar Ghorai
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Modules
+  * (for DFT methods) GAUSSIAN, QuantumESPRESSO, VASP, ASE
+  * (for QMC methods) TurboRVB
+  * (for MD methods) CP2K, VASP
+  * (for molecule rendering) Blender, VMD, Jmol, Materials Studio, VESTA
+* Languages
+  * (Basic) MATLAB, C++, bash scripting
+  * (Intermediate) Python, LaTeX
+* Others
+  * More than 4 years of experience in using supercomputing resources
+  * Proficiency with Linux/macOS/Windows environment
 
 Publications
 ======
