@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Raghavendra Meena"
-  avatar           : "profile.jpg"
+  avatar           : "images/profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Wageningen"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/raghavendram3"
   google_plus      :
   keybase          :
   instagram        :
